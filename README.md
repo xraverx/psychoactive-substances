@@ -30,7 +30,7 @@ marijuana/
 
 ## How to Contribute
 
-We encourage contributions to this project! If you have relevant information to add or would like to improve existing content, please submit a pull request. Together, we can create a comprehensive and valuable resource for the community.
+This project is a work-in-progress, so we encourage contributions! If you have relevant information to add or would like to improve existing content, please submit a pull request. Together, we can create a comprehensive and valuable resource for the community.
 
 ## License
 
